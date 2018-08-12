@@ -1,0 +1,4 @@
+Using switch in parameters
+https://technet.microsoft.com/en-us/library/jj554301.aspx
+http://www.hofferle.com/scriptblock-flexibility-in-powershell/
+https://blogs.technet.microsoft.com/heyscriptingguy/2011/05/26/use-powershell-to-data-mine-your-outlook-inbox/
